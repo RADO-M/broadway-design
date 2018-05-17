@@ -8,7 +8,7 @@ h1{
   color: white;
 }
 
-.banner p{
+.banner p,a{
   font-size: 18px;
   color: white;
   font-weight: bold;
